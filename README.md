@@ -167,7 +167,9 @@ af.dropna()
 sns.boxplot(data=af)
 ```
 ![image](https://github.com/user-attachments/assets/be5b0b44-0e4d-44b5-b34f-dbbd65897a29)
-
+```
+sns.scatterplot(data=af)
+```
 ![image](https://github.com/user-attachments/assets/825b257c-6ec2-4553-b2ac-5e1c2b8e186e)
 ```
 data=[1,2,2,2,3,1,1,15,2,2,2,3,1,1,2]
