@@ -31,8 +31,18 @@ df
 
 ![image](https://github.com/user-attachments/assets/b897a009-b523-4c01-9b9d-64609d5100b8)
 
+df.shape
 
+![image](https://github.com/user-attachments/assets/69a614c2-43c2-49f3-9c09-3030f472c4e7)
+
+df.describe()
+
+      QAqSZ![image](https://github.com/user-attachments/assets/8603ae8f-f96d-448c-8879-e9337f780cdb)
       
-            
+
+df.info()
+
+![image](https://github.com/user-attachments/assets/98ab7564-a0f6-4e94-9060-483e0d249a63)
+
 # Result
           <<include your Result here>>
