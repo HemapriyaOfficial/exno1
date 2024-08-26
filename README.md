@@ -27,6 +27,11 @@ import pandas as pd
 df=pd.read_csv("/content/SAMPLEIDS.csv")
 
 df
+
+
+![image](https://github.com/user-attachments/assets/b897a009-b523-4c01-9b9d-64609d5100b8)
+
+
       
             
 # Result
