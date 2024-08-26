@@ -23,7 +23,9 @@ STEP 6: Use zscore of to remove outliers
 # Coding and Output
 
 import pandas as pd
+
 df=pd.read_csv("/content/SAMPLEIDS.csv")
+
 df
       
             
